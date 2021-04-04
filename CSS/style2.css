@@ -1,0 +1,30 @@
+
+h1{
+    background-color: #413c69;
+    text-align: center;
+    color: aqua;
+    height:100px ;
+}
+header nav{
+    background:#4a47a3;
+    height: 100px;
+    
+}
+header nav ul li a{
+    color: aqua;
+    font-size: 20px;
+
+}
+p{
+    background-color:#709fb0 ;
+    height:100px ;
+    font-size: 30px;
+}
+footer{
+    background-color: #a7c5eb;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    line-height:100px ;
+    font-size: 30px;
+}

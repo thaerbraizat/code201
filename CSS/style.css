@@ -1,0 +1,30 @@
+h1{
+    background-color: #413c69;
+    text-align: center;
+    color: aqua;
+    height: 100px;
+}
+header nav{
+    background:#4a47a3;
+    height: 100px;
+    
+}
+header nav ul li a{
+    color: aqua;
+    font-size: 20px;
+
+}
+.imgee{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+  
+}
+p{
+    background-color: #a7c5eb;
+    height: 100px;
+}
+footer{
+    background-color: #a7c5eb;
+}
